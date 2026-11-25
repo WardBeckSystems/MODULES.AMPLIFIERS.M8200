@@ -57,7 +57,7 @@ WBS WARD-BECK SYSTEMS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8200/PHOTOS/1993 - M8200 - Remote Sesitivity - transformerless Mic Pre 001.jpg",
+ "file": "Modules/AMPLIFIERS/M8200/MANUALS/1993 - M8200 - Remote Sesitivity - transformerless Mic Pre 001.jpg",
  "sha256": "54d9336f5e6845b2d26aa14118198afec95b1ffb8b56670a65f6fd9b56c47dcb",
  "kind": "module",
  "models": [
