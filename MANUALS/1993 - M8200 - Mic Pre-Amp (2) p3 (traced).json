@@ -1,0 +1,68 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M8200/MANUALS/1993 - M8200 - Mic Pre-Amp (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/60290c2f14dadee8-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1540, 2000],
+  "mm": [332.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [25.9, 21.8, 325.4, 421.0],
+ "outlines": {
+  "line": {"rings": 149, "straight": {"n": 2238, "mm": 4379.2}, "curved": {"n": 465, "mm": 736.6}},
+  "text": {"rings": 284, "straight": {"n": 1918, "mm": 2093.9}, "curved": {"n": 586, "mm": 939.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 85,
+  "lines": [
+   {"mm": [28.7, 405.2, 41.7, 411.0], "text": "WA"},
+   {"mm": [64.3, 405.2, 139.7, 411.0], "text": "ECK SYST EMS LTO"},
+   {"mm": [136.0, 375.7, 171.0, 380.2], "text": "UCH Nl f6J"},
+   {"mm": [180.7, 375.7, 192.6, 380.2], "text": "AH"},
+   {"mm": [107.7, 362.7, 138.4, 367.3], "text": "MB2QQ IC"},
+   {"mm": [158.0, 362.7, 165.4, 367.3], "text": "ON"},
+   {"mm": [173.8, 362.7, 220.9, 367.3], "text": "PR EA MPIIElER"},
+   {"mm": [91.1, 349.3, 159.6, 353.9], "text": "(TR NSFQRM ER fSSt"},
+   {"mm": [171.2, 349.3, 234.9, 353.9], "text": "MO TE SE NS JIlY'Ty)"},
+   {"mm": [199.9, 334.9, 284.1, 343.7], "text": "or {he inpI,I1 pair nd he"},
+   {"mm": [44.3, 335.7, 67.1, 341.2], "text": "Phas ins:"},
+   {"mm": [127.8, 335.7, 192.6, 341.2], "text": "he nl,lmbered lermina"},
+   {"mm": [123.5, 329.0, 269.0, 334.5], "text": "nu mbere ter mina of he Ol,ltPl,ltpair are in pha se."},
+   {"mm": [44.3, 315.9, 98.0, 321.4], "text": "Power Reql,lirernenl"},
+   {"mm": [140.3, 315.9, 187.2, 321.4], "text": "volls DC. 10 ma."},
+   {"mm": [44.3, 302.9, 108.0, 308.4], "text": "Ambient Te mpe r3ll,lre:"},
+   {"mm": [128.9, 302.9, 188.9, 308.4], "text": "to SO dea:reu Cels;l,Is."},
+   {"mm": [43.8, 289.5, 77.3, 295.0], "text": "Dim en ions:"},
+   {"mm": [123.7, 289.5, 136.4, 294.8], "text": "1.00\""},
+   {"mm": [141.8, 289.5, 172.9, 295.0], "text": "'id cx 2.7S\""},
+   {"mm": [179.0, 289.5, 225.2, 295.0], "text": "iSh 10.60' deep"},
+   {"mm": [122.8, 282.8, 130.4, 288.1], "text": "(2S"},
+   {"mm": [138.4, 282.8, 217.2, 288.3], "text": "mm 70.0 mm 270.0 rnm)."},
+   {"mm": [43.8, 270.1, 61.3, 275.6], "text": "Weight"},
+   {"mm": [122.6, 270.1, 171.0, 275.6], "text": "O.S Ibs (227 SDU)."},
+   {"mm": [276.1, 64.6, 296.9, 73.4], "text": "ps"},
+   {"mm": [264.9, 53.1, 286.7, 64.4], "text": "BS"},
+   {"mm": [242.7, 30.9, 261.0, 38.1], "text": "tp"},
+   {"mm": [235.5, 23.7, 256.3, 30.9], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 332 × 432 mm, 1540 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 26–325 mm across, 22–421 mm up",
+  "- **Outlines:** line 149 rings, 2,238 straight (4,379 mm) / 465 curved (737 mm); text 284 rings, 1,918 straight (2,094 mm) / 586 curved (939 mm)",
+  "- **Words (OCR):** 85 in 29 lines: WA · ECK SYST EMS LTO · UCH Nl f6J · AH · MB2QQ IC · ON · PR EA MPIIElER · (TR NSFQRM ER fSSt · MO TE SE NS JIlY'Ty) · or {he inpI,I1 pair nd he · Phas ins: · he nl,lmbered lermina"
+ ]
+}

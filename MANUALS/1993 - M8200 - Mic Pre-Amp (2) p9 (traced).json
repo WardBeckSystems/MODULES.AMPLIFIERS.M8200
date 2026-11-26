@@ -1,0 +1,68 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M8200/MANUALS/1993 - M8200 - Mic Pre-Amp (2).pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/60290c2f14dadee8-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 19.4, 302.0, 421.9],
+ "outlines": {
+  "line": {"rings": 172, "straight": {"n": 2211, "mm": 4331.9}, "curved": {"n": 538, "mm": 870.6}},
+  "text": {"rings": 344, "straight": {"n": 2254, "mm": 2523.7}, "curved": {"n": 742, "mm": 1212.8}}
+ },
+ "circles": [
+  {"c": [233.1, 336.0], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [248.2, 328.7], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 105,
+  "lines": [
+   {"mm": [30.0, 402.4, 48.6, 408.0], "text": "WAFl"},
+   {"mm": [70.6, 402.4, 141.4, 408.0], "text": "CK SYS TE MS LTD"},
+   {"mm": [129.3, 372.6, 140.1, 377.0], "text": "STr!."},
+   {"mm": [154.2, 372.6, 160.6, 377.0], "text": "TI"},
+   {"mm": [173.2, 372.6, 209.6, 377.0], "text": "AN SET IJP"},
+   {"mm": [108.8, 359.5, 201.0, 364.5], "text": "MIlOO MI CBO PHQN PR EAMP"},
+   {"mm": [206.0, 359.5, 214.0, 364.3], "text": "IFl"},
+   {"mm": [44.9, 332.9, 160.0, 338.4], "text": "Thc M8200 prea mplificr pr ov idc IWO"},
+   {"mm": [178.3, 332.1, 285.4, 337.6], "text": "cfcr to thc Input /Out pu co nncct ion!"},
+   {"mm": [44.9, 326.2, 156.7, 331.7], "text": "60 ohm ito lal cd OUt pUll. hc outp Ull"},
+   {"mm": [173.2, 325.8, 220.0, 331.3], "text": "$cct ion of hc Dl"},
+   {"mm": [233.2, 325.8, 285.2, 331.3], "text": "Audio istribut ion"},
+   {"mm": [44.9, 320.0, 156.5, 325.5], "text": "arcdcl il ncdto ope rltcprimari ly ;nto"},
+   {"mm": [177.0, 319.1, 190.9, 324.6], "text": "yttcm"},
+   {"mm": [202.3, 319.1, 285.9, 324.6], "text": "llUl ll lt ioll in!truCliont, in"},
+   {"mm": [45.3, 313.3, 158.9, 318.8], "text": "bri dl illl IOl of OOolt ml or arCalCT."},
+   {"mm": [173.4, 312.8, 240.7, 318.4], "text": "Sect ion oflh ilmlllul"},
+   {"mm": [44.9, 300.1, 157.6, 305.6], "text": "Thcou tpul lmplificrUl lcort hc M8200"},
+   {"mm": [44.9, 293.4, 109.2, 298.9], "text": "it capablc of dc li vcr in"},
+   {"mm": [122.0, 293.4, 157.0, 298.9], "text": "muimum of"},
+   {"mm": [44.9, 287.1, 148.8, 292.7], "text": "..2SdBm into tinal 600 ohm IOld."},
+   {"mm": [288.7, 76.2, 309.0, 85.3], "text": "ca"},
+   {"mm": [266.0, 53.3, 287.8, 64.8], "text": "BS"},
+   {"mm": [243.5, 31.1, 262.1, 38.3], "text": "tp"},
+   {"mm": [236.4, 24.0, 257.1, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–302 mm across, 19–422 mm up",
+  "- **Outlines:** line 172 rings, 2,211 straight (4,332 mm) / 538 curved (871 mm); text 344 rings, 2,254 straight (2,524 mm) / 742 curved (1,213 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.5 @ (233.1, 336.0), r 1.8 @ (248.2, 328.7)",
+  "- **Words (OCR):** 105 in 25 lines: WAFl · CK SYS TE MS LTD · STr!. · TI · AN SET IJP · MIlOO MI CBO PHQN PR EAMP · IFl · Thc M8200 prea mplificr pr ov idc IWO · cfcr to thc Input /Out pu co nncct ion! · 60 ohm ito lal cd OUt pUll. hc outp Ull · $cct ion of hc Dl · Audio istribut ion"
+ ]
+}

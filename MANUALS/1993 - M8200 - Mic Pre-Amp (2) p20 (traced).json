@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M8200/MANUALS/1993 - M8200 - Mic Pre-Amp (2).pdf",
+ "page": 20,
+ "version": 1,
+ "trace": "_traces/60290c2f14dadee8-p20.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "20", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 8.9, 333.7, 431.4],
+ "outlines": {"line": {"rings": 893, "straight": {"n": 8580, "mm": 11893.6}, "curved": {"n": 2240, "mm": 3681.4}}},
+ "circles": [
+  {"c": [58.6, 227.4], "r": 6.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [82.0, 290.9], "r": 6.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [73.5, 227.4], "r": 6.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [58.6, 277.9], "r": 6.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [81.9, 215.5], "r": 6.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [247.4, 217.1], "r": 6.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [73.5, 278.0], "r": 6.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [219.8, 217.0], "r": 5.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [245.8, 230.0], "r": 4.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [99.8, 215.6], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [214.9, 234.8], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [320.4, 254.0], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [66.1, 290.4], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [66.0, 215.0], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [232.6, 215.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [232.6, 291.0], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [245.8, 229.9], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.4, 246.4], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [30.4, 258.7], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8}
+ ],
+ "boxes": [
+  {"mm": [25.5, 282.8, 30.9, 297.9], "w": 5.4, "h": 15.1, "from": "ring"},
+  {"mm": [169.9, 263.0, 177.2, 291.9], "w": 7.3, "h": 28.9, "from": "ring"},
+  {"mm": [155.9, 262.8, 163.2, 291.7], "w": 7.3, "h": 28.9, "from": "ring"},
+  {"mm": [187.4, 276.1, 189.6, 278.7], "w": 2.2, "h": 2.6, "from": "ring"},
+  {"mm": [27.2, 274.2, 33.0, 277.2], "w": 5.8, "h": 3.0, "from": "ring"},
+  {"mm": [294.1, 257.6, 296.2, 260.2], "w": 2.2, "h": 2.6, "from": "ring"},
+  {"mm": [15.1, 245.3, 22.0, 259.9], "w": 6.9, "h": 14.7, "from": "ring"},
+  {"mm": [294.1, 253.5, 296.2, 256.3], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [110.3, 253.3, 112.5, 256.1], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [294.1, 250.0, 296.2, 252.9], "w": 2.2, "h": 2.9, "from": "ring"},
+  {"mm": [260.8, 210.9, 277.8, 227.6], "w": 17.1, "h": 16.6, "from": "ring"},
+  {"mm": [261.7, 223.7, 276.8, 226.7], "w": 15.1, "h": 3.0, "from": "ring"},
+  {"mm": [25.3, 207.5, 30.7, 222.4], "w": 5.4, "h": 14.9, "from": "ring"},
+  {"mm": [261.6, 211.8, 276.8, 214.8], "w": 15.2, "h": 3.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [321.0, 187.2, 332.1, 191.3], "text": "NOTE"},
+   {"mm": [283.3, 58.9, 304.2, 68.1], "text": "ps"},
+   {"mm": [271.8, 47.5, 293.6, 59.0], "text": "BS"},
+   {"mm": [249.6, 25.0, 267.9, 32.2], "text": "tp"},
+   {"mm": [242.5, 17.9, 263.4, 25.1], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [302.5, 278.3], "r": 1.3, "lines": 0}, {"c": [295.2, 230.1], "r": 1.3, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 9–431 mm up",
+  "- **Outlines:** line 893 rings, 8,580 straight (11,894 mm) / 2,240 curved (3,681 mm)",
+  "- **Circles and arcs:** 19 circles, 0 arcs; largest r 6.9 @ (58.6, 227.4), r 6.4 @ (82.0, 290.9), r 6.4 @ (73.5, 227.4), r 6.4 @ (58.6, 277.9)",
+  "- **Closed boxes:** 14",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 5 in 5 lines: NOTE · ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M8200/MANUALS/1993 - M8200 - Mic Pre-Amp.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/db0ee675664fd3ed-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1540, 2000],
+  "mm": [332.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.6, 13.8, 304.4, 421.4],
+ "outlines": {
+  "line": {"rings": 24, "straight": {"n": 576, "mm": 2932.6}, "curved": {"n": 52, "mm": 89.1}},
+  "text": {"rings": 160, "straight": {"n": 1824, "mm": 2451.3}, "curved": {"n": 515, "mm": 851.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [120.7, 397.0, 283.5, 406.9], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [53.3, 388.6, 285.9, 403.3], "text": "WBS 841 proGAESS AVENUE; SCAAbOROUGH ONTARIO M1h 2x4"},
+   {"mm": [120.0, 386.7, 171.2, 392.2], "text": "FAX: 416/438-3865"},
+   {"mm": [212.9, 386.7, 285.9, 392.4], "text": "TELEPHONE; 416/438-6550"},
+   {"mm": [157.6, 229.9, 184.2, 238.6], "text": "M8200"},
+   {"mm": [109.2, 211.8, 232.1, 221.4], "text": "MICROPHONE PREAMPLIFIER"},
+   {"mm": [239.2, 59.4, 295.8, 66.3], "text": "MANLAL LSSUE #2"},
+   {"mm": [239.2, 45.8, 282.8, 53.4], "text": "August 12, 1993"},
+   {"mm": [59.2, 12.1, 93.5, 20.5], "text": "/M8200#2.WP"},
+   {"mm": [38.6, 13.8, 61.3, 19.1], "text": "MW9IOOL"}
+  ]
+ },
+ "title_block": {
+  "mm": [46.8, 380.0, 263.6, 415.3],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD", "WBS 841 proGAESS AVENUE; SCAAbOROUGH ONTARIO M1h 2x4", "FAX: 416/438-3865", "TELEPHONE; 416/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 332 × 432 mm, 1540 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–304 mm across, 14–421 mm up",
+  "- **Outlines:** line 24 rings, 576 straight (2,933 mm) / 52 curved (89.1 mm); text 160 rings, 1,824 straight (2,451 mm) / 515 curved (852 mm)",
+  "- **Words (OCR):** 14 in 10 lines: WARD-BECK SYSTEMS LTD · WBS 841 proGAESS AVENUE; SCAAbOROUGH ONTARIO M1h 2x4 · FAX: 416/438-3865 · TELEPHONE; 416/438-6550 · M8200 · MICROPHONE PREAMPLIFIER · MANLAL LSSUE #2 · August 12, 1993 · /M8200#2.WP · MW9IOOL",
+  "- **Title block:** (47, 380)–(264, 415) mm: WARD-BECK SYSTEMS LTD · WBS 841 proGAESS AVENUE; SCAAbOROUGH ONTARIO M1h 2x4 · FAX: 416/438-3865 · TELEPHONE; 416/438-6550"
+ ]
+}

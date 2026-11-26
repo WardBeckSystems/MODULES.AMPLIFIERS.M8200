@@ -1,0 +1,84 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M8200/MANUALS/1993 - M8200 - Mic Pre-Amp (2).pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/60290c2f14dadee8-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.9, 9.7, 306.2, 421.3],
+ "outlines": {
+  "line": {"rings": 155, "straight": {"n": 2227, "mm": 5064.5}, "curved": {"n": 543, "mm": 920.5}},
+  "text": {"rings": 293, "straight": {"n": 1969, "mm": 2081.4}, "curved": {"n": 685, "mm": 1072.3}},
+  "tb": {"rings": 18, "straight": {"n": 105, "mm": 115.5}, "curved": {"n": 45, "mm": 73.0}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [70.0, 402.2, 74.3, 407.0], "w": 4.3, "h": 4.7, "from": "ring"},
+  {"mm": [110.3, 402.0, 114.9, 407.0], "w": 4.5, "h": 5.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 81,
+  "lines": [
+   {"mm": [75.3, 400.7, 84.6, 406.2], "text": "CI<"},
+   {"mm": [94.8, 400.7, 144.9, 406.2], "text": "YST EMS LTD"},
+   {"mm": [116.6, 352.6, 134.3, 356.6], "text": "MI1QQ"},
+   {"mm": [136.9, 352.3, 220.6, 357.1], "text": "MIC ROPHO NE RE rl:MP fl"},
+   {"mm": [122.8, 338.1, 221.5, 347.2], "text": "i\\nson r1:N IO Il MP ONENTS"},
+   {"mm": [47.9, 313.3, 60.0, 318.1], "text": "SfQ"},
+   {"mm": [96.3, 313.3, 134.9, 318.1], "text": "QES CR IPTIQ"},
+   {"mm": [196.7, 313.1, 204.2, 317.9], "text": "ME"},
+   {"mm": [243.1, 313.1, 301.4, 317.9], "text": "MFC PA RT N!!MBfR"},
+   {"mm": [95.9, 299.5, 134.9, 305.0], "text": "Mod ule Han dl"},
+   {"mm": [101.0, 286.7, 131.3, 292.2], "text": "Pin Ju mper"},
+   {"mm": [196.5, 286.3, 223.2, 291.8], "text": "Ap lro nics"},
+   {"mm": [243.1, 285.9, 258.0, 291.6], "text": "!J299~"},
+   {"mm": [95.9, 273.3, 152.2, 278.8], "text": "Prin tcd ircuil Boar"},
+   {"mm": [196.5, 272.9, 209.6, 278.7], "text": "WBS"},
+   {"mm": [43.0, 272.5, 54.6, 278.5], "text": "PC'"},
+   {"mm": [96.1, 260.4, 144.7, 265.9], "text": "14 Pin Dip Sock et"},
+   {"mm": [242.5, 259.9, 266.4, 265.5], "text": "6403 57·3"},
+   {"mm": [101.0, 254.1, 141.6, 259.6], "text": "pi Dip Soc kcl"},
+   {"mm": [242.5, 253.3, 260.8, 258.8], "text": "640463"},
+   {"mm": [288.7, 76.2, 309.0, 85.3], "text": "ca"},
+   {"mm": [266.0, 53.3, 287.8, 64.8], "text": "BS"},
+   {"mm": [41.9, 37.6, 300.5, 43.1], "text": "WBS re<;o mmen ds tile usc of rep la<;cmcn p:lrrl mad by Ihe specified manufac turers or"},
+   {"mm": [41.5, 31.3, 167.3, 36.8], "text": "<;ootinued(lpl;mumequ ip mentpe rfo man<;c."},
+   {"mm": [243.5, 31.1, 262.1, 38.3], "text": "tp"},
+   {"mm": [236.4, 24.0, 257.1, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [35.1, 28.9, 216.3, 287.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "Prin tcd ircuil Boar",
+   "WBS",
+   "PC'",
+   "14 Pin Dip Sock et",
+   "pi Dip Soc kcl",
+   "WBS re<;o mmen ds tile usc of rep la<;cmcn p:lrrl mad by Ihe specified manufac turers or",
+   "<;ootinued(lpl;mumequ ip mentpe rfo man<;c."
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–306 mm across, 10–421 mm up",
+  "- **Outlines:** line 155 rings, 2,227 straight (5,064 mm) / 543 curved (920 mm); text 293 rings, 1,969 straight (2,081 mm) / 685 curved (1,072 mm); tb 18 rings, 105 straight (116 mm) / 45 curved (73.0 mm)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 81 in 26 lines: CI< · YST EMS LTD · MI1QQ · MIC ROPHO NE RE rl:MP fl · i\\nson r1:N IO Il MP ONENTS · SfQ · QES CR IPTIQ · ME · MFC PA RT N!!MBfR · Mod ule Han dl · Pin Ju mper · Ap lro nics",
+  "- **Title block:** (35, 29)–(216, 287) mm: Prin tcd ircuil Boar · WBS · PC' · 14 Pin Dip Sock et · pi Dip Soc kcl · WBS re<;o mmen ds tile usc of rep la<;cmcn p:lrrl mad by Ihe specified manufac turers or · <;ootinued(lpl;mumequ ip mentpe rfo "
+ ]
+}

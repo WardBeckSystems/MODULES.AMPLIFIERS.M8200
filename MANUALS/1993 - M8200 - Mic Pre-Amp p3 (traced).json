@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M8200/MANUALS/1993 - M8200 - Mic Pre-Amp.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/db0ee675664fd3ed-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1540, 2000],
+  "mm": [332.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [25.9, 21.8, 325.4, 421.0],
+ "outlines": {
+  "line": {"rings": 22, "straight": {"n": 801, "mm": 2602.7}, "curved": {"n": 63, "mm": 106.1}},
+  "text": {"rings": 396, "straight": {"n": 3252, "mm": 3799.8}, "curved": {"n": 976, "mm": 1554.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [28.1, 405.5, 141.4, 412.8], "text": "WAAD-BECK systems LTD_"},
+   {"mm": [134.3, 374.6, 193.7, 382.5], "text": "IECHNCAL DATA"},
+   {"mm": [106.2, 361.6, 221.7, 369.3], "text": "M8200 MLCROPHONE PREAMPLLELER"},
+   {"mm": [89.8, 348.9, 236.0, 356.3], "text": "(TRANSEQRMERLESSL REMOTE SENSITLYIIY)"},
+   {"mm": [42.1, 335.5, 68.2, 344.4], "text": "Phasing:"},
+   {"mm": [122.4, 335.7, 220.9, 342.8], "text": "The numbered terminal of the"},
+   {"mm": [223.2, 334.9, 285.0, 342.3], "text": "input pair and the"},
+   {"mm": [122.0, 328.2, 269.9, 335.8], "text": "numbered terminal of the output pair are in phase."},
+   {"mm": [42.5, 316.3, 104.1, 323.3], "text": "Power Requirements:"},
+   {"mm": [121.8, 315.4, 186.3, 323.3], "text": "+/-22 volts DC, 80 ma"},
+   {"mm": [43.2, 301.4, 189.3, 310.7], "text": "Ambient Temperature: 0 to 50 degrees Celsius:"},
+   {"mm": [42.5, 290.4, 78.2, 297.3], "text": "Dimensions:"},
+   {"mm": [122.4, 288.9, 228.6, 297.0], "text": "1.00\" wide x 2.75\" high x 10.60\" decp:"},
+   {"mm": [121.6, 283.3, 180.1, 290.2], "text": "(25.4 mm 70.0 mm"},
+   {"mm": [181.4, 282.8, 218.1, 289.8], "text": "x 270.0 mm)"},
+   {"mm": [95.9, 275.5, 105.1, 279.8], "text": "54 `"},
+   {"mm": [42.3, 270.1, 64.8, 278.2], "text": "Weight:"},
+   {"mm": [121.6, 269.4, 170.6, 276.9], "text": "0.5 Ibs (227 gms)"},
+   {"mm": [160.2, 21.6, 169.9, 28.1], "text": "1-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 332 × 432 mm, 1540 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 26–325 mm across, 22–421 mm up",
+  "- **Outlines:** line 22 rings, 801 straight (2,603 mm) / 63 curved (106 mm); text 396 rings, 3,252 straight (3,800 mm) / 976 curved (1,554 mm)",
+  "- **Words (OCR):** 30 in 19 lines: WAAD-BECK systems LTD_ · IECHNCAL DATA · M8200 MLCROPHONE PREAMPLLELER · (TRANSEQRMERLESSL REMOTE SENSITLYIIY) · Phasing: · The numbered terminal of the · input pair and the · numbered terminal of the output pair are in phase. · Power Requirements: · +/-22 volts DC, 80 ma · Ambient Temperature: 0 to"
+ ]
+}

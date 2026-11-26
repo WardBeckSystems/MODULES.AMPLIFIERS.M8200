@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M8200/MANUALS/1993 - M8200 - Mic Pre-Amp (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/60290c2f14dadee8-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1540, 2000],
+  "mm": [332.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.6, 13.8, 307.9, 421.4],
+ "outlines": {
+  "line": {"rings": 114, "straight": {"n": 1620, "mm": 4137.7}, "curved": {"n": 371, "mm": 609.0}},
+  "text": {"rings": 137, "straight": {"n": 1127, "mm": 1540.1}, "curved": {"n": 231, "mm": 363.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 33,
+  "lines": [
+   {"mm": [44.9, 387.1, 285.4, 404.4], "text": "[WElS] ROG FlE AveNue, SCA PElOA Oua.. ONT 11-12)(."},
+   {"mm": [131.3, 397.3, 155.0, 404.7], "text": "ARD"},
+   {"mm": [169.3, 397.3, 183.9, 404.7], "text": "EC"},
+   {"mm": [215.3, 397.3, 273.1, 404.7], "text": "STE MS LT"},
+   {"mm": [137.1, 386.5, 170.6, 390.8], "text": "1t!I .38-3B6e"},
+   {"mm": [214.2, 386.5, 241.6, 390.8], "text": "Tll LEP I-ION"},
+   {"mm": [254.8, 386.5, 284.8, 390.8], "text": "ISI. 38-8&eO"},
+   {"mm": [158.0, 229.5, 181.8, 236.9], "text": "M8200"},
+   {"mm": [110.8, 212.2, 230.8, 219.4], "text": "MICROPHONE PREAMPLI FIER"},
+   {"mm": [276.1, 64.6, 296.9, 73.4], "text": "ps"},
+   {"mm": [249.1, 53.1, 286.7, 64.6], "text": "IW BS"},
+   {"mm": [268.1, 60.2, 291.0, 65.0], "text": "{HUE_"},
+   {"mm": [246.8, 46.4, 255.0, 51.7], "text": "gm"},
+   {"mm": [266.4, 46.4, 280.5, 51.7], "text": ".199J"},
+   {"mm": [242.7, 30.9, 261.0, 38.1], "text": "tp"},
+   {"mm": [235.5, 23.7, 256.3, 30.9], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 332 × 432 mm, 1540 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–308 mm across, 14–421 mm up",
+  "- **Outlines:** line 114 rings, 1,620 straight (4,138 mm) / 371 curved (609 mm); text 137 rings, 1,127 straight (1,540 mm) / 231 curved (363 mm)",
+  "- **Words (OCR):** 33 in 16 lines: [WElS] ROG FlE AveNue, SCA PElOA Oua.. ONT 11-12)(. · ARD · EC · STE MS LT · 1t!I .38-3B6e · Tll LEP I-ION · ISI. 38-8&eO · M8200 · MICROPHONE PREAMPLI FIER · ps · IW BS · {HUE_"
+ ]
+}
