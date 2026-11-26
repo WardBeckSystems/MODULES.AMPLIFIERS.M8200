@@ -21,7 +21,7 @@ Wiki page: [M8200](../../../../PAGES/M8200.md)
 - **Outlines:** line 114 rings, 1,620 straight (4,138 mm) / 371 curved (609 mm); text 137 rings, 1,127 straight (1,540 mm) / 231 curved (363 mm)
 - **Words (OCR):** 33 in 16 lines: [WElS] ROG FlE AveNue, SCA PElOA Oua.. ONT 11-12)(. · ARD · EC · STE MS LT · 1t!I .38-3B6e · Tll LEP I-ION · ISI. 38-8&eO · M8200 · MICROPHONE PREAMPLI FIER · ps · IW BS · {HUE_
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p1 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p1%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p1 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p1 (trace
 - **Closed boxes:** 1
 - **Words (OCR):** 320 in 80 lines: WA · CK · STE · LTD · UCH Nl · AJA · UOO · ICROPHONE PRu'MP FIfR · lTRA NSfORMnl ESS REMOTE SENS ITJ YJ · Ga in (Tunsducc · 61 dB to 40 · con tin uo usly var iabl
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p2 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p2%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p2 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -41,7 +41,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p2 (trace
 - **Outlines:** line 149 rings, 2,238 straight (4,379 mm) / 465 curved (737 mm); text 284 rings, 1,918 straight (2,094 mm) / 586 curved (939 mm)
 - **Words (OCR):** 85 in 29 lines: WA · ECK SYST EMS LTO · UCH Nl f6J · AH · MB2QQ IC · ON · PR EA MPIIElER · (TR NSFQRM ER fSSt · MO TE SE NS JIlY'Ty) · or {he inpI,I1 pair nd he · Phas ins: · he nl,lmbered lermina
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p3 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p3%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p3 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p3 (trace
 - **Words (OCR):** 380 in 68 lines: SYSTE MS · MIlDD MIC ROP ONE PR · IflfB · Th M8200 Microphone Prea mplitie · Alon lwitll he inpu preamolitie remote · wit its tran st ormerless input circui tr · sensit vi ty adju st ment ca pab ilities. he · an · lid-sta te remo sellsit iv lly capa- · cver eu amplit ier lai may be rimm ed · bilit i
 - **Title block:** (229, 220)–(296, 268) mm: has bee co nvenient ly pack al ed to · llow ts illtegt ati on in lO he WBS · 12 Au io Distr bu ioll Syst em. he · M.2 00 ma be mount ed ....it th M120$ · Dist ribu tion Amplif ier pr oyidi nl the
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p4 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p4%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p4 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -63,7 +63,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p4 (trace
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (139.9, 256.9)
 - **Words (OCR):** 648 in 115 lines: CIRellIT DES RIPTJQN · MUon MICRQPHON PRUMPIIfIIJR · Th micro pho ne in put cable connects · he low noise pr eam pl ifi er is of. dual · to it., · of the modu le COnllec lor, · ifferen ia co fi,urat loo ma de UP of · it th ca ble shiel wir in til pin · Ql hrOUIII Q4 an · llis mpli ier · e.lll ibiu v
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p5 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p5%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p5 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -74,7 +74,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p5 (trace
 - **Closed boxes:** 3
 - **Words (OCR):** 636 in 137 lines: Fl · BECI< · Cl BC! !1T pESCR IP TlON · MURO MIC · NE RU MPI IFfE · The ove ra ll am!)lifier la in is ad j\lsted · It · no rmal pnctice wilen he cer nal · by li Iri con tr ol R3S (see se tU!) nd · ensil ,vi ty contr olis ....iredlo theMI200 · dj \ls\lnenl secuo · or ad
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p6 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p6%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p6 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -85,7 +85,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p6 (trace
 - **Closed boxes:** 4
 - **Words (OCR):** 662 in 114 lines: YSTEMS LTD · TA LATION ANn I:TJJ · MU OO MICRO ONE REAMP ifi ER · rf clf or · ter ll l)Ower ed condenl er · mier op hone arebciollU ledlhenlhere · Refe 10 th tec hn al manu of he · ilnorequiremcnt forllleUlilizati on · 8212 AUd io Disui bul ion Synem and · of he phantom JXlwer circ ui ry of th · Sec
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p7 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p7%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p7 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -96,7 +96,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p7 (trace
 - **Closed boxes:** 2
 - **Words (OCR):** 568 in 136 lines: YSTEMS TO · NSTA · ATI ON · UII · MUH · MICROPHO · Pl · !flU · mic ropho llerece prael e,d uecollJider al ioa · he · illpul SCIIJill ..it)' COIIIJIII · IIlUJlbeai.. IO he ype or CO.... eelio
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p8 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p8%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p8 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -106,7 +106,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p8 (trace
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.5 @ (233.1, 336.0), r 1.8 @ (248.2, 328.7)
 - **Words (OCR):** 105 in 25 lines: WAFl · CK SYS TE MS LTD · STr!. · TI · AN SET IJP · MIlOO MI CBO PHQN PR EAMP · IFl · Thc M8200 prea mplificr pr ov idc IWO · cfcr to thc Input /Out pu co nncct ion! · 60 ohm ito lal cd OUt pUll. hc outp Ull · $cct ion of hc Dl · Audio istribut ion
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p9 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p9%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p9 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -117,7 +117,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p9 (trace
 - **Closed boxes:** 3
 - **Words (OCR):** 161 in 128 lines: FA44. ^ · 5 |4 ` - = ~ ( · WAAD BLCIC BYOTEMe · EAALAIELALHLUE · DTZLAUDIO_DISTRIBUIION SXSTESE · ncari · Powar Sunnid · oecratioa (lint · Keelind Gtion · Remntceomirmcne (rom · iht Mzs FouerSupplyL · prMan
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p10 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p10%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p10 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -127,7 +127,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p10 (trac
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (86.4, 162.0)
 - **Words (OCR):** 643 in 135 lines: Fl · SYSTEMS LTC · NSTAl ATI ON AN · pl · P'S TB IBIJTION SYSTf · Ut · tp · Cp lnsllp. · and examin for Ihe proper in tereon- · neel ion of li nk · or ISV ACo J)era tio · Rere to pa ge 7-1 nd dr awi ol 82 12·
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p11 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p11%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p11 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -138,7 +138,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p11 (trac
 - **Dots (junctions):** 4
 - **Words (OCR):** 190 in 113 lines: WA · SYS EMS TD · Ma200 MICROP HO NE PR UMPIIfIER · PA RI · ESCR IPTIO · MEG · MEG PART · ER · cr To · Ca paeilor · 47 uF/S · Ph ili ps
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p12 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p12%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p12 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -150,7 +150,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p12 (trac
 - **Dots (junctions):** 8
 - **Words (OCR):** 29 in 21 lines: WAR · Cl< · YSTE MS LTO · MU · IC · HONE PR t;AMPJ IfI ER · MEG · EG · K.eme · T390E226M035AS · Kerner · T39OC106M035AS
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p13 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p13%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p13 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -161,7 +161,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p13 (trac
 - **Dots (junctions):** 13
 - **Words (OCR):** 134 in 94 lines: YSTEM LTD · M'2 00 MIC ROP · NE RE AMP) IfiER · ART · ES · PTl QN · ffi · MEG PA RT · BER · eu · Rcsi5 lor · 4W
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p14 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p14%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p14 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -171,7 +171,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p14 (trac
 - **Dots (junctions):** 9
 - **Words (OCR):** 98 in 64 lines: CK YSTE MS LTC. · 82 QQ · CR OP HO · PREAMP! !FIER · ESCRIPTIO · MEG · MfG · RT 1!M EB · RSO · Ru istor 4W S1llo27K · CR2S · RSO
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p15 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p15%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p15 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -182,7 +182,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p15 (trac
 - **Words (OCR):** 81 in 26 lines: CI< · YST EMS LTD · MI1QQ · MIC ROPHO NE RE rl:MP fl · i\nson r1:N IO Il MP ONENTS · SfQ · QES CR IPTIQ · ME · MFC PA RT N!!MBfR · Mod ule Han dl · Pin Ju mper · Ap lro nics
 - **Title block:** (35, 29)–(216, 287) mm: Prin tcd ircuil Boar · WBS · PC' · 14 Pin Dip Sock et · pi Dip Soc kcl · WBS re<;o mmen ds tile usc of rep la<;cmcn p:lrrl mad by Ihe specified manufac turers or · <;ootinued(lpl;mumequ ip mentpe rfo 
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p16 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p16%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p16 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -194,7 +194,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p16 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 29 in 15 lines: WARO~8EC SYS MS TO · SA 14-1 46 · AUDIO TERMINAL ASSEM8L · 48'" · RE~~~tf · PHANTOM POWER · SYSTEt.t GROUND · ::::'-"*-+.-\cI-- OUlPUT · '~H-4;I- OUlPU · IMRING SIDE · Of CONNECTOR SHOWN · ca
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p17 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p17%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p17 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -205,7 +205,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p17 (trac
 - **Dots (junctions):** 2
 - **Words (OCR):** 46 in 42 lines: tt · +20 · Hay · INPUT · 60 dBu · TO dBu · eOOO/H500 OHWS · SYSroI · GROUND · ev · NOTES: · ALL
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p18 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p18%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p18 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -219,7 +219,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p18 (trac
 - **Title block:** (229, 45)–(319, 67) mm: ps · (VVElS) WARD -BECK SYSTEMS · BS · M8200
 - **Wiring (first pass):** 53 connected wire groups from 362 runs; labelled ends: 202 mm → '01<, C25, C20, Il2J; 152 mm → 30.1'•, 30.1, ~7P; 119 mm → ~7P; 78 mm → 30."., '43, JO.11; 26 mm → (VVElS), WARD
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p19 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p19%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p19 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -231,7 +231,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p19 (trac
 - **Dots (junctions):** 2
 - **Words (OCR):** 5 in 5 lines: NOTE · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p20 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p20%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p20 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -243,7 +243,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p20 (trac
 - **Words (OCR):** 53 in 24 lines: NOTE · NOTE · NOTES- · PHRNTOM POVER LINK LK1 IS · SHIPPEO · THE · POSITION · NO CONNECTION TO EXTERN'lL POVER SOURCE · NPUT LOSS PRO LINKS LK2 RND LK3 · 'IRE SHIPPEO · THE · POSITION
 - **Title block:** (230, 49)–(320, 71) mm: ps · (was) WARD-BECK SYSTEMS · BS · M8200
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p21 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p21%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp (2) p21 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp (2) p21 (traced).dxf`).
 
 ## Full text
 

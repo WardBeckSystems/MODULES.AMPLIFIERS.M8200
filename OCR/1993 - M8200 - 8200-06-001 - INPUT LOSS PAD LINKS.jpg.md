@@ -21,7 +21,7 @@ Wiki page: [M8200](../../../../PAGES/M8200.md)
 - **Words (OCR):** 113 in 92 lines: 814409 S6P · DIF · 590 RI _R · I5K · C14 · WBS · 885 · SOT · C22) 56P · LKI · NOTE · CrI IN7S6A
 - **Title block:** (137, 48)–(320, 306) mm: 590 RI _R · WBS · 885 · LKI · NOTE · CANADA · 4-212 · 34 R42 · R44 · 524 R45 · 32 4 R45 · 17/50 · 452 R6 4 · 6xe · R2 # · '00 LKz · 750 · NOTE · 75 %5 · LkS · 862 @ · C46 C47 · 862-@ · 22/35 22/35 · P
 
-Every curve, box, word and wire group: [1993 - M8200 - 8200-06-001 - INPUT LOSS PAD LINKS (traced).json](../SCHEMATICS/1993%20-%20M8200%20-%208200-06-001%20-%20INPUT%20LOSS%20PAD%20LINKS%20(traced).json) (the CAD file: `1993 - M8200 - 8200-06-001 - INPUT LOSS PAD LINKS (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - 8200-06-001 - INPUT LOSS PAD LINKS (traced).json](../SCHEMATICS/1993%20-%20M8200%20-%208200-06-001%20-%20INPUT%20LOSS%20PAD%20LINKS%20%28traced%29.json) (the CAD file: `1993 - M8200 - 8200-06-001 - INPUT LOSS PAD LINKS (traced).dxf`).
 
 ## Full text
 

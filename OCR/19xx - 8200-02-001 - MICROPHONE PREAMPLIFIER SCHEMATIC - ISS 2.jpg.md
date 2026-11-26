@@ -34,7 +34,7 @@ M8200 microphone preamplifier schematic, cropped.
 - **Title block:** (229, 45)–(320, 69) mm: WARD-BECK SYSTEMS · M82oo
 - **Wiring (first pass):** 51 connected wire groups from 358 runs; labelled ends: 187 mm → 100, C57, 27P, 56k; 181 mm → +22v, CJJ, 150/10, CSI; 115 mm → NESSJJN, C38, 27P; 103 mm → O7, 22*, 2K2, UJB; 92 mm → R22, C25, 5k38, NESSJJN
 
-Every curve, box, word and wire group: [19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%208200-02-001%20-%20MICROPHONE%20PREAMPLIFIER%20SCHEMATIC%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%208200-02-001%20-%20MICROPHONE%20PREAMPLIFIER%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2 (traced).dxf`).
 
 ## Full text
 

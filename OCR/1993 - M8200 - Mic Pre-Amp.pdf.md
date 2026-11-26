@@ -22,7 +22,7 @@ Wiki page: [M8200](../../../../PAGES/M8200.md)
 - **Words (OCR):** 14 in 10 lines: WARD-BECK SYSTEMS LTD · WBS 841 proGAESS AVENUE; SCAAbOROUGH ONTARIO M1h 2x4 · FAX: 416/438-3865 · TELEPHONE; 416/438-6550 · M8200 · MICROPHONE PREAMPLIFIER · MANLAL LSSUE #2 · August 12, 1993 · /M8200#2.WP · MW9IOOL
 - **Title block:** (47, 380)–(264, 415) mm: WARD-BECK SYSTEMS LTD · WBS 841 proGAESS AVENUE; SCAAbOROUGH ONTARIO M1h 2x4 · FAX: 416/438-3865 · TELEPHONE; 416/438-6550
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p1 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p1%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p1 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p1 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p1%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p1 (traced).j
 - **Outlines:** line 60 rings, 1,154 straight (3,200 mm) / 172 curved (293 mm); text 1,647 rings, 10,565 straight (11,550 mm) / 3,527 curved (5,798 mm)
 - **Words (OCR):** 68 in 57 lines: WAAD-BECK SYSTems LTD. · IECHNCAL DAIA · M8200 MCRQPHQNE PREAMPLIELER · (TRANSFORMERLESS · REMQTE SENSITLITY · Gain: (Transducer) · 68 dB to 40 dB continuously variable: · 48 dB to 20 dB continuously variable · (with 20 dB input pad): · Input Sensitivity: · 30 dB continuously variable (remote or loc
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p2 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p2%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p2 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p2 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p2%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p2 (traced).dxf`).
 
 ### Page 3
 
@@ -40,7 +40,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p2 (traced).j
 - **Outlines:** line 22 rings, 801 straight (2,603 mm) / 63 curved (106 mm); text 396 rings, 3,252 straight (3,800 mm) / 976 curved (1,554 mm)
 - **Words (OCR):** 30 in 19 lines: WAAD-BECK systems LTD_ · IECHNCAL DATA · M8200 MLCROPHONE PREAMPLLELER · (TRANSEQRMERLESSL REMOTE SENSITLYIIY) · Phasing: · The numbered terminal of the · input pair and the · numbered terminal of the output pair are in phase. · Power Requirements: · +/-22 volts DC, 80 ma · Ambient Temperature: 0 to
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p3 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p3%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p3 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p3 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p3%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p3 (traced).dxf`).
 
 ### Page 4
 
@@ -50,7 +50,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p3 (traced).j
 - **Words (OCR):** 127 in 69 lines: WAAD-BECK Systems LTD · GENERAL · M8200 MCROPHONE PREAMPLLEIER · The M8200 Microphone Preamplifier Along with the input preamplifier remote · with its transformerless input circuitry sensitivity adjustment capabilitics, the · and solid-state remote sensitivity capa- overall amplifier gain may be tri
 - **Title block:** (26, 219)–(296, 420) mm: WAAD-BECK Systems LTD · GENERAL · M8200 MCROPHONE PREAMPLLEIER · The M8200 Microphone Preamplifier Along with the input preamplifier remote · with its transformerless input circuitry sensitivity adjus
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p4 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p4%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p4 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p4 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p4%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p4 (traced).dxf`).
 
 ### Page 5
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p4 (traced).j
 - **Words (OCR):** 223 in 107 lines: WAAD-BeCK Systems LTD_ · CIRCULI DESCRIPTION · M8200 MCROPHONE PREAMPLIFIER · Lnput · Preamplifie · The   microphone  input cable connects · The low noise preamplifier is of a dual · to pins 9 & K of the module connector, differential configuration made up of · with the cable shield wiring to pin Lj
 - **Title block:** (23, 94)–(214, 419) mm: WAAD-BeCK Systems LTD_ · CIRCULI DESCRIPTION · M8200 MCROPHONE PREAMPLIFIER · Lnput · Preamplifie · The   microphone  input cable connects · to pins 9 & K of the module connector, differential configu
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p5 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p5%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p5 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p5 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p5%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p5 (traced).dxf`).
 
 ### Page 6
 
@@ -69,7 +69,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p5 (traced).j
 - **Outlines:** line 22 rings, 743 straight (2,592 mm) / 101 curved (159 mm); text 3,101 rings, 20,412 straight (22,199 mm) / 6,883 curved (10,868 mm)
 - **Words (OCR):** 235 in 122 lines: WAAD-BECK systems LTD · CIRCUII DESCRIPTION · M8200_MICROPHONE PREAMPLIEIER · The overall amplifier gain is adjusted · It is normal practice when the external · by · gain trim control R35 (scc setup and · sensitivity control is wired to the M8200 · adjustment section · for  adjustment de- · Micropho
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p6 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p6%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p6 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p6 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p6%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p6 (traced).dxf`).
 
 ### Page 7
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p6 (traced).j
 - **Words (OCR):** 240 in 129 lines: WAAD-BECK Systems LTD; · [NSIALLATIONAND SETUE · M820Q MICROPHONE PREAMPLIEIER · Reference · If sclf or externally powered condenser · microphones are being used then there · Refer the technical manual of the is no · to · requirement for · the utilization · D8242 Audio · Distribution System and
 - **Title block:** (23, 68)–(292, 420) mm: WAAD-BECK Systems LTD; · [NSIALLATIONAND SETUE · M820Q MICROPHONE PREAMPLIEIER · Reference · If sclf or externally powered condenser · microphones are being used then there · Refer the technical manua
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p7 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p7%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p7 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p7 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p7%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p7 (traced).dxf`).
 
 ### Page 8
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p7 (traced).j
 - **Words (OCR):** 234 in 118 lines: WAAD-BECK systems LTD · NSTALLATIQNAND SETUE · M8200_ MCRQPHQNE PREAMPLIFIER · microphone receptacle, due consideration The remotc · input   sensitivity control · must be given t0 the type of connection · provides a 30 dB continuous · gain change · made. Solder type terminations are best; of the M82
 - **Title block:** (27, 97)–(296, 420) mm: WAAD-BECK systems LTD · NSTALLATIQNAND SETUE · M8200_ MCRQPHQNE PREAMPLIFIER · microphone receptacle, due consideration The remotc · input   sensitivity control · must be given t0 the type of connecti
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p8 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p8%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p8 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p8 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p8%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p8 (traced).dxf`).
 
 ### Page 9
 
@@ -98,7 +98,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p8 (traced).j
 - **Outlines:** line 23 rings, 781 straight (2,618 mm) / 99 curved (152 mm); text 491 rings, 3,649 straight (4,230 mm) / 1,177 curved (1,926 mm)
 - **Words (OCR):** 32 in 19 lines: WAAD-BeCK systems LTD · NSTALLATIONAND SETUE · M8200 MCROPHONE PREAMPLLELER · Qutputs · Thc · M8200   preamplifier  provides [wo · Refer t0 the Input/Output connections · 60 ohm isolated outputs: · The outputs · section of the D82I2 Audio Distribution · are designed t0 operate primarily into System 
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p9 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p9%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p9 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p9 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p9%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p9 (traced).dxf`).
 
 ### Page 10
 
@@ -108,7 +108,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p9 (traced).j
 - **Words (OCR):** 216 in 132 lines: WAAO-BeCK SYSTems LTD; · INSIALLATIONAND SETUP · D8212 AUDIQ DISTRIBUTIQN SYSTEM · Unpacking · Power   Supplics arc · for · nominal · sct · 230v AC operation (link J2 in place on · Remove cquipment from packing carton the M8245 Power Supply) The primary · and examine for any damage that may · AC fus
 - **Title block:** (22, 48)–(293, 417) mm: WAAO-BeCK SYSTems LTD; · INSIALLATIONAND SETUP · D8212 AUDIQ DISTRIBUTIQN SYSTEM · Unpacking · Power   Supplics arc · for · nominal · sct · 230v AC operation (link J2 in place on · Remove cquipment fr
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p10 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p10%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p10 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p10 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p10%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p10 (traced).dxf`).
 
 ### Page 11
 
@@ -118,7 +118,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p10 (traced).
 - **Words (OCR):** 230 in 133 lines: WAAD-BECK Systems LTD; · INSTALLATION · AND SETUE · D824 AUDIQ DISTRIBUIIONSYSTEM · Input/QutoutConnections · and examine for the proper · intercon- · nection of link JI for HISV AC operation · Refer to page 7-1 and drawing D8242- or link J2 for 230V AC operation. Refer · 02-001 · for illustrated de
 - **Title block:** (27, 64)–(135, 421) mm: WAAD-BECK Systems LTD; · Input/QutoutConnections · 02-001 · for illustrated details of audio to · system interconnects · cable  shields be connected at one end · t0 · thc · audio · system   ground. Th
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p11 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p11%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p11 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p11 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p11%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p11 (traced).dxf`).
 
 ### Page 12
 
@@ -128,7 +128,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p11 (traced).
 - **Dots (junctions):** 4
 - **Words (OCR):** 128 in 127 lines: WAAD-BeCK SYSTems LTD_ · PARIS LISI · M8200 MICRQPHONE PREAMPLLEIER · PART · DESCRIPTION · MEG · MEG PARINUMBER · CI To · Capacitor · 47 uF/S0 V · Philips · 035 90015
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p12 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p12%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p12 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p12 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p12%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p12 (traced).dxf`).
 
 ### Page 13
 
@@ -139,7 +139,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p12 (traced).
 - **Words (OCR):** 97 in 94 lines: WAAD-BECK SYSTeMs LTD_ · PARTS LISI · M82OL MLCRQPHONE PREAMPLLEIER · PARL · DESCRIPTION · MFG · MEG PARLNUMBER · C46 · Capacitor · 22 uF/35 · Kemet · T3OOE226MO3SAS
 - **Title block:** (28, 164)–(216, 420) mm: WAAD-BECK SYSTeMs LTD_ · PARTS LISI · M82OL MLCRQPHONE PREAMPLLEIER · PARL · DESCRIPTION · MFG · C46 · Capacitor · 22 uF/35 · Kemet · C47 · 22 uF/35 · C48 · 47 uF/So V · Philips · C49 · 47 uF/SO V · C
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p13 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p13%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p13 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p13 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p13%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p13 (traced).dxf`).
 
 ### Page 14
 
@@ -150,7 +150,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p13 (traced).
 - **Words (OCR):** 123 in 117 lines: WAAD-BECK · systems LTD; · PARIS LIST · M8200 MICRQPHONE PREAMPLLELER · PARL · DESCRIPTION · MEG · MEG PARLNUMBER · Resistor 1/4w 59 8K2 · Philips · CR2S · RH
 - **Title block:** (25, 396)–(154, 421) mm: WAAD-BECK · systems LTD;
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p14 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p14%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p14 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p14 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p14%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p14 (traced).dxf`).
 
 ### Page 15
 
@@ -161,7 +161,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p14 (traced).
 - **Words (OCR):** 84 in 79 lines: WAAD-BECK systems LTD_ · PARISLSI · M8200 MLCROPHONE PREAMPLLELER · PARL · DESCRIPTION · MEG · MEG PARLNUMBER · RSo · Resistor 1/4w 59 27K · Philips · CR25 · RSI
 - **Title block:** (28, 395)–(136, 419) mm: WAAD-BECK systems LTD_
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p15 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p15%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p15 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p15 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p15%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p15 (traced).dxf`).
 
 ### Page 16
 
@@ -171,7 +171,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p15 (traced).
 - **Words (OCR):** 30 in 30 lines: WAAD-BeCK SYSTEmS LTD · PARIS LISI · M8200 MCROPHONE PREAMPLIEIER · MSCELLANEQUS COMPONENTS · USEDON · DESCRIPTION · MEG · MEG PARTNUMBER · HANDLE · Module Handle · WBS · B8205-004
 - **Title block:** (27, 28)–(308, 417) mm: WAAD-BeCK SYSTEmS LTD · PARIS LISI · M8200 MCROPHONE PREAMPLIEIER · MSCELLANEQUS COMPONENTS · USEDON · DESCRIPTION · MEG · MEG PARTNUMBER · HANDLE · Module Handle · WBS · B8205-004 · LKI To LK3 · 2 Pi
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p16 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p16%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p16 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p16 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p16%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p16 (traced).dxf`).
 
 ### Page 17
 
@@ -184,7 +184,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p16 (traced).
 - **Words (OCR):** 41 in 34 lines: WARD-BECK SYSTEMS LTD_ · SA14-146 · AUDIO TERMINAL · ASSEMBLY · +48v · TERMINAL · PHANTOM POWER · REFERENCE · SYSTEM GROUND · OUTPUT · OUTPUT · 10
 - **Title block:** (24, 98)–(152, 414) mm: WARD-BECK SYSTEMS LTD_ · TERMINAL · REFERENCE · MICROPHONE · RECEPTACE · RD · BK 15 · RD · 5k · BK · (LIN) · REMOTE · cwy · INPUT · SENSITIMTY · (WBS 10-037)
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p17 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p17%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p17 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p17 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p17%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p17 (traced).dxf`).
 
 ### Page 18
 
@@ -195,7 +195,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p17 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 150 in 141 lines: +10v · +20 · C16 · +48v · NoTe · 10/35 · S8P · CS 47 /50 · Uib · 47 /50 C4 · C1B · C25
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p18 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p18%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p18 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p18 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p18%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p18 (traced).dxf`).
 
 ### Page 19
 
@@ -209,7 +209,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p18 (traced).
 - **Title block:** (229, 44)–(320, 69) mm: WES WARD-BECK · SYSTEMS · M82oo
 - **Wiring (first pass):** 52 connected wire groups from 320 runs; labelled ends: 202 mm → R22, 10K, C25, R2J; 152 mm → C57, 27P, Rz, 58k; 120 mm → U2B, cJJ, 150/10, C3O; 119 mm → O7, SE, 22, C57; 92 mm → 0.+7/100,, NESSJJN, UJA
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p19 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p19%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p19 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p19 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p19%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p19 (traced).dxf`).
 
 ### Page 20
 
@@ -220,7 +220,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p19 (traced).
 - **Closed boxes:** 12; named: LoRI VILSC4
 - **Words (OCR):** 86 in 77 lines: ISSUE · 840 _K · LOK R39 22k · 4ZK · R14 · 429 S6P · S6P · 47P 2. 47 · SOT · C17 · Cri · C33
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p20 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p20%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p20 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p20 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p20%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p20 (traced).dxf`).
 
 ### Page 21
 
@@ -232,7 +232,7 @@ Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p20 (traced).
 - **Words (OCR):** 105 in 83 lines: R14499 S6P · DIF · 592 · 15K R7 · C14 · WBS · 5o1 · CR2 5 6v 5-65p · LKI · NOTE · CrI IN756A · CANADA
 - **Title block:** (137, 49)–(320, 306) mm: 592 · WBS · LKI · NOTE · CANADA · 4-212 · 34 R44 · 32 4 R45 · {/50 · 452 · 6Ke · R2# · '000" LKz · '080; LK3 · 753 as · NOTE · C46 C47 · 868 @ · 22/35 22/55 · PHANTOM POHER LINK LKI IS · SHIPPED IN TH
 
-Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p21 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p21%20(traced).json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p21 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - M8200 - Mic Pre-Amp p21 (traced).json](../MANUALS/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p21%20%28traced%29.json) (the CAD file: `1993 - M8200 - Mic Pre-Amp p21 (traced).dxf`).
 
 ## Full text
 
