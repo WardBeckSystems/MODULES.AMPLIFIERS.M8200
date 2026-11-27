@@ -1,0 +1,25 @@
+{
+ "module": "M8200",
+ "source": {
+  "file": "MANUALS/1993 - M8200 - P005 - 3-1.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.94,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "[nput Preamplifie"
+   ]
+  },
+  {
+   "heading": "{7 ] C",
+   "paragraphs": [
+    "The microphone input cable connects to pins 9 & K of the module connector with thc cable shield wiring to pin L_ The low noise preamplifier is of dual differential configuration made up of Q1 through Q4 and UI_ This amplifier exhibits very low input noise and the same time provides high rejection common mode input signal voltages_ The gain of this preamplifier is determind by the ratio of R20 and R2I to the variable solid-state resistor LDRI, The low noise characteristics this optically coupled variable resistor the means which the gain (input sensitivity) the input preamplifier maybe altered remotely without affecting its low input noise characteristics External phantom power maybe simplexdown the microphone cable_ The external 48V dc voltage wires to module connector pin and the supply common connects pin (labelled systems ground). The phantom power voltage is fed through resistor R2 and R3 to the microphone input: When shipped link LK [ the A-B position_ to feed [he volt phantom power voltage place link LKI in the B-C position_ 20 dB loss pad_ made of R4, RS and R6 may bc inserted into the input signal path for applications where high output level condenser microphones are employed (levels greater than 30 to \"20 dBu). to insert the loss pad in the signal path place links LK2 and LK3 in the A-B position: The outputs from the preamplifier stages are fed through R22 and R23 to differential amplifier UZA The gain of this amplifier is trimmed slightly by adjusting R26 for low frequency signals and C26 for high frequencies_ common mode rejection greater than 100 dB provided across the audio band The input signal coupled through blocking capacitors C2 to C9 to common modefilter made and C12 through CIS to differential microphone input signals this filter is virtually non effective; but to common mode noise and rf pick this filter has very high degree of attenuation_ Typis_ cally the common mode loss this input filter approaches dB 100 kHz and 80 dB at mHz. Low Pass Filter UZB along with R27, R28 and C28 [hrough to C3I form 12 dB per octave low pass filter with dB roll off point of nominal 40 kHz: This helps suppress out of band super sonic interference which maybe picked from TV monitors, SCR type lighting systems; etc Zener diodes CRI to CR4 protect the dual differential low noise preamplifier circuitry from input overloading transient voltages_ This typically can occur with the application removal of the phantom power voltage. Output C33 couples thc audio signal the output power stage composed of U3A_ U3B and their associated components Two direct actively balanced outputs are provided at module connector pins 4 & Dand 5 & E The output impedance is set to 60 ohms by R42 through R45"
+   ]
+  }
+ ]
+}
