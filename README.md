@@ -1,16 +1,16 @@
-# M8200 · Amplifiers
+# M8200 Microphone Preamplifier · Amplifiers
 
 Ward-Beck Systems M8200, 1989|22. Wiki page: [M8200 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M8200.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 27 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 29 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 156 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 8 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 43 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -49,7 +49,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd2pSTnhQYnpxbHM/view?resourcekey=0--jTePg4qHq8KX6Tim_upPA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd2pSTnhQYnpxbHM&resourcekey=0--jTePg4qHq8KX6Tim_upPA" width="240" alt="1993 - M8200 - 8200-02-001 - BYP ZOK RANGE.jpg"></a><br><sub>1993|26 · 8200-02-001 - BYP ZOK RANGE · <a href="SCHEMATICS/1993%20-%20M8200%20-%208200-02-001%20-%20BYP%20ZOK%20RANGE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLXFjSGJjMzBjMms/view?resourcekey=0-GJM-qfq7dWfbxZqtMGQs_w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLXFjSGJjMzBjMms&resourcekey=0-GJM-qfq7dWfbxZqtMGQs_w" width="240" alt="1993 - M8200 - 8200-02-001 - INPU LOSS PAD LINKS.jpg"></a><br><sub>1993|26 · 8200-02-001 - INPU LOSS PAD LINKS · <a href="SCHEMATICS/1993%20-%20M8200%20-%208200-02-001%20-%20INPU%20LOSS%20PAD%20LINKS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMVR2cHJHS2xmT1k/view?resourcekey=0-_tjEVXZah9w5FbQN7WXKWA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMVR2cHJHS2xmT1k&resourcekey=0-_tjEVXZah9w5FbQN7WXKWA" width="240" alt="1993 - M8200 - 8200-06-001 - CSI NESISSN.jpg"></a><br><sub>1993|26 · 8200-06-001 - CSI NESISSN · <a href="SCHEMATICS/1993%20-%20M8200%20-%208200-06-001%20-%20CSI%20NESISSN%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRlA0MXl2SWxMMm8/view?resourcekey=0-M3WAsHe1N0XPPwLHMfRdNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRlA0MXl2SWxMMm8&resourcekey=0-M3WAsHe1N0XPPwLHMfRdNw" width="240" alt="1993 - M8200 - 8200-06-001 - INPUT LOSS PAD LINKS.jpg"></a><br><sub>1993|26 · 8200-06-001 - INPUT LOSS PAD LINKS · <a href="SCHEMATICS/1993%20-%20M8200%20-%208200-06-001%20-%20INPUT%20LOSS%20PAD%20LINKS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1JRwy1aU_MHTl42wIPs4LTDd04tXP9c-o/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1JRwy1aU_MHTl42wIPs4LTDd04tXP9c-o" width="240" alt="1994 - M8200 - DOC - 94031-01-001 - SMITCHED SWTCHED OUTPUT IB-COUGH OFF SMTCHED SWITCHED OUTPUT.jpg"></a><br><sub>1994|27 · DOC - 94031-01-001 - SMITCHED SWTCHED OUTPUT IB-COUGH OFF SMTCHED SWITCHED OUTPUT</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1mgdA89Fk11XlB0KuC3BDKfFTTM27gAaS/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1mgdA89Fk11XlB0KuC3BDKfFTTM27gAaS" width="240" alt="1996 - M8200 - DOC - 96017-01-001 - ISSUEI REMSION.jpg"></a><br><sub>1996|29 · DOC - 96017-01-001 - ISSUEI REMSION</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRlA0MXl2SWxMMm8/view?resourcekey=0-M3WAsHe1N0XPPwLHMfRdNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRlA0MXl2SWxMMm8&resourcekey=0-M3WAsHe1N0XPPwLHMfRdNw" width="240" alt="1993 - M8200 - 8200-06-001 - INPUT LOSS PAD LINKS.jpg"></a><br><sub>1993|26 · 8200-06-001 - INPUT LOSS PAD LINKS · <a href="SCHEMATICS/1993%20-%20M8200%20-%208200-06-001%20-%20INPUT%20LOSS%20PAD%20LINKS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1JRwy1aU_MHTl42wIPs4LTDd04tXP9c-o/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1JRwy1aU_MHTl42wIPs4LTDd04tXP9c-o" width="240" alt="1994 - M8200 - DOC - 94031-01-001 - SMITCHED SWTCHED OUTPUT IB-COUGH OFF SMTCHED SWITCHED OUTPUT.jpg"></a><br><sub>1994|27 · DOC - 94031-01-001 - SMITCHED SWTCHED OUTPUT IB-COUGH OFF SMTCHED SWITCHED OUTPUT · <a href="SCHEMATICS/1994%20-%20M8200%20-%20DOC%20-%2094031-01-001%20-%20SMITCHED%20SWTCHED%20OUTPUT%20IB-COUGH%20OFF%20SMTCHED%20SWITCHED%20OUTPUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1mgdA89Fk11XlB0KuC3BDKfFTTM27gAaS/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1mgdA89Fk11XlB0KuC3BDKfFTTM27gAaS" width="240" alt="1996 - M8200 - DOC - 96017-01-001 - ISSUEI REMSION.jpg"></a><br><sub>1996|29 · DOC - 96017-01-001 - ISSUEI REMSION · <a href="SCHEMATICS/1996%20-%20M8200%20-%20DOC%20-%2096017-01-001%20-%20ISSUEI%20REMSION%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2.jpg`
@@ -79,6 +79,8 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1993 - M8200 - 8200-02-001 - INPU LOSS PAD LINKS.kicad_sch](KICAD/1993%20-%20M8200%20-%208200-02-001%20-%20INPU%20LOSS%20PAD%20LINKS.kicad_sch)
 - [1993 - M8200 - Mic Pre-Amp (2) p19.kicad_sch](KICAD/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20(2)%20p19.kicad_sch)
 - [1993 - M8200 - Mic Pre-Amp p19.kicad_sch](KICAD/1993%20-%20M8200%20-%20Mic%20Pre-Amp%20p19.kicad_sch)
+- [1994 - M8200 - DOC - 94031-01-001 - SMITCHED SWTCHED OUTPUT IB-COUGH OFF SMTCHED SWITCHED OUTPUT.kicad_sch](KICAD/1994%20-%20M8200%20-%20DOC%20-%2094031-01-001%20-%20SMITCHED%20SWTCHED%20OUTPUT%20IB-COUGH%20OFF%20SMTCHED%20SWITCHED%20OUTPUT.kicad_sch)
+- [1996 - M8200 - DOC - 96017-01-001 - ISSUEI REMSION.kicad_sch](KICAD/1996%20-%20M8200%20-%20DOC%20-%2096017-01-001%20-%20ISSUEI%20REMSION.kicad_sch)
 - [19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2.kicad_sch](KICAD/19xx%20-%208200-02-001%20-%20MICROPHONE%20PREAMPLIFIER%20SCHEMATIC%20-%20ISS%202.kicad_sch)
 - [M8200.kicad_sym](KICAD/M8200.kicad_sym)
 - [index.html](KICAD/index.html)
