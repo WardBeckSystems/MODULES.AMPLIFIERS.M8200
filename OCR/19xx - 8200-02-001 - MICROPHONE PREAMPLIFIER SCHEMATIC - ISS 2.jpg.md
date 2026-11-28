@@ -1,5 +1,5 @@
 # 19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2.jpg
-Wiki page: [M8200](../../../../PAGES/M8200.md)
+Wiki page: [M8200](../)
 
 
 - **Year:** unknown (title block (read by eye))

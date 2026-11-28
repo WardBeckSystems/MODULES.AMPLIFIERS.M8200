@@ -1,6 +1,6 @@
 # M8200 Microphone Preamplifier · Amplifiers
 
-Ward-Beck Systems M8200, 1989|22. Wiki page: [M8200 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M8200.html)
+Ward-Beck Systems M8200, 1989|22. Wiki page: [M8200 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M8200-Microphone-Preamplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

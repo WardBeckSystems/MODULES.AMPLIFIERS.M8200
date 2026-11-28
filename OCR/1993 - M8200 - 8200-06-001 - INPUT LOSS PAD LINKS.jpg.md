@@ -1,5 +1,5 @@
 # 1993 - M8200 - 8200-06-001 - INPUT LOSS PAD LINKS.jpg
-Wiki page: [M8200](../../../../PAGES/M8200.md)
+Wiki page: [M8200](../)
 
 
 - **Year:** 1993 (module estimate (manual_issue))
