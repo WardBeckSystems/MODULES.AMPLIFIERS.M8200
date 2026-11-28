@@ -4,13 +4,12 @@ Ward-Beck Systems M8200, 1989|22. Wiki page: [M8200 on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 29 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 156 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 8 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 28 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 155 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 7 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 43 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -52,8 +51,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRlA0MXl2SWxMMm8/view?resourcekey=0-M3WAsHe1N0XPPwLHMfRdNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRlA0MXl2SWxMMm8&resourcekey=0-M3WAsHe1N0XPPwLHMfRdNw" width="240" alt="1993 - M8200 - 8200-06-001 - INPUT LOSS PAD LINKS.jpg"></a><br><sub>1993|26 · 8200-06-001 - INPUT LOSS PAD LINKS · <a href="SCHEMATICS/1993%20-%20M8200%20-%208200-06-001%20-%20INPUT%20LOSS%20PAD%20LINKS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1JRwy1aU_MHTl42wIPs4LTDd04tXP9c-o/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1JRwy1aU_MHTl42wIPs4LTDd04tXP9c-o" width="240" alt="1994 - M8200 - DOC - 94031-01-001 - SMITCHED SWTCHED OUTPUT IB-COUGH OFF SMTCHED SWITCHED OUTPUT.jpg"></a><br><sub>1994|27 · DOC - 94031-01-001 - SMITCHED SWTCHED OUTPUT IB-COUGH OFF SMTCHED SWITCHED OUTPUT · <a href="SCHEMATICS/1994%20-%20M8200%20-%20DOC%20-%2094031-01-001%20-%20SMITCHED%20SWTCHED%20OUTPUT%20IB-COUGH%20OFF%20SMTCHED%20SWITCHED%20OUTPUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1mgdA89Fk11XlB0KuC3BDKfFTTM27gAaS/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1mgdA89Fk11XlB0KuC3BDKfFTTM27gAaS" width="240" alt="1996 - M8200 - DOC - 96017-01-001 - ISSUEI REMSION.jpg"></a><br><sub>1996|29 · DOC - 96017-01-001 - ISSUEI REMSION · <a href="SCHEMATICS/1996%20-%20M8200%20-%20DOC%20-%2096017-01-001%20-%20ISSUEI%20REMSION%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2.jpg`
-
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
@@ -83,7 +80,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1996 - M8200 - DOC - 96017-01-001 - ISSUEI REMSION.kicad_sch](KICAD/1996%20-%20M8200%20-%20DOC%20-%2096017-01-001%20-%20ISSUEI%20REMSION.kicad_sch)
 - [19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2.kicad_sch](KICAD/19xx%20-%208200-02-001%20-%20MICROPHONE%20PREAMPLIFIER%20SCHEMATIC%20-%20ISS%202.kicad_sch)
 - [M8200.kicad_sym](KICAD/M8200.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
